@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2446569444",
+    "project_id": "nasa-db052",
+    "storage_bucket": "nasa-db052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2446569444:android:bdbd1e4a2395eb8124a1f1",
+        "android_client_info": {
+          "package_name": "hr.algebra.nasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2446569444-md3pjt6av45sc9cj0i5b47045mamuaq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ypGpRIosr3_9odKG1HLP9B6lNzB_uJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2446569444-md3pjt6av45sc9cj0i5b47045mamuaq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
